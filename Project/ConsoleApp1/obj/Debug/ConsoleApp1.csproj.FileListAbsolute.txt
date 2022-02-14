@@ -1,0 +1,16 @@
+C:\Users\Stasya\Desktop\4 курс\Work\TestBPO\Project\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Stasya\Desktop\4 курс\Work\TestBPO\Project\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Stasya\Desktop\4 курс\Work\TestBPO\Project\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Stasya\Desktop\4 курс\Work\TestBPO\Project\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Stasya\Desktop\4 курс\Work\TestBPO\Project\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Stasya\Desktop\4 курс\Work\TestBPO\Project\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Stasya\Desktop\4 курс\Work\TestBPO\Project\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Stasya\Desktop\4 курс\Work\TestBPO\Project\ConsoleApp1\bin\Debug\System.Memory.dll
+C:\Users\Stasya\Desktop\4 курс\Work\TestBPO\Project\ConsoleApp1\bin\Debug\System.Text.Json.dll
+C:\Users\Stasya\Desktop\4 курс\Work\TestBPO\Project\ConsoleApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Stasya\Desktop\4 курс\Work\TestBPO\Project\ConsoleApp1\bin\Debug\System.Buffers.dll
+C:\Users\Stasya\Desktop\4 курс\Work\TestBPO\Project\ConsoleApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Stasya\Desktop\4 курс\Work\TestBPO\Project\ConsoleApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Stasya\Desktop\4 курс\Work\TestBPO\Project\ConsoleApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Stasya\Desktop\4 курс\Work\TestBPO\Project\ConsoleApp1\obj\Debug\ConsoleApp1.exe.config
+C:\Users\Stasya\Desktop\4 курс\Work\TestBPO\Project\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
